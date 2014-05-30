@@ -1,0 +1,9 @@
+D:\studio proj\bettingParlor\bettingParlor\bin\Debug\bettingParlor.exe.config
+D:\studio proj\bettingParlor\bettingParlor\obj\Debug\bettingParlor.csprojResolveAssemblyReference.cache
+D:\studio proj\bettingParlor\bettingParlor\obj\Debug\bettingParlor.gameGrid.resources
+D:\studio proj\bettingParlor\bettingParlor\obj\Debug\bettingParlor.Properties.Resources.resources
+D:\studio proj\bettingParlor\bettingParlor\obj\Debug\bettingParlor.csproj.GenerateResource.Cache
+D:\studio proj\bettingParlor\bettingParlor\bin\Debug\bettingParlor.exe
+D:\studio proj\bettingParlor\bettingParlor\bin\Debug\bettingParlor.pdb
+D:\studio proj\bettingParlor\bettingParlor\obj\Debug\bettingParlor.exe
+D:\studio proj\bettingParlor\bettingParlor\obj\Debug\bettingParlor.pdb
